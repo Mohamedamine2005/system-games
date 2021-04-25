@@ -1,0 +1,8 @@
+{
+  "token":"",
+ "MongoDB":"mongodb+srv://HaiDer:WqrnoDgxes0vMWLl@cluster0.pdoop.mongodb.net/HaiDer?retryWrites=true&w=majority",
+"prefix":"$",
+ "owners": [
+"743721022238359575"
+    ]
+}

@@ -1,0 +1,116 @@
+[
+{
+"type": "بيت",
+"answers": ["home"]
+},
+
+{
+"type": "دراجه",
+"answers": ["Bicycle"]
+},
+
+{
+"type": "شوكولاتة",
+"answers": ["chocolate"]
+},
+
+{
+"type": "عطر",
+"answers": ["Perfume"]
+},
+
+{
+"type": "ملابس",
+"answers": ["Clothes"]
+},
+
+{
+"type": "سيارة",
+"answers": ["Car"]
+},
+
+{
+"type": "قطار",
+"answers": ["Train"]
+},
+
+{
+"type": "سمك",
+"answers": ["fish"]
+},
+
+{
+"type": "طحين",
+"answers": ["Flour"]
+},
+
+{
+"type": "طفل",
+"answers": ["Baby"]
+},
+
+{
+"type": "حب",
+"answers": ["Love"]
+},
+
+{
+"type": "فراش",
+"answers": ["mattress"]
+},
+
+{
+"type": "حساب",
+"answers": ["account"]
+},
+
+{
+"type": "جديد",
+"answers": ["new"]
+},
+
+{
+"type": "مخفي",
+"answers": ["hidden"]
+},
+
+{
+"type": "شارك",
+"answers": ["Share"]
+},
+
+{
+"type": "ترجم",
+"answers": ["translate"]
+},
+
+{
+"type": "مطور",
+"answers": ["Developer"]
+},
+
+{
+"type": "دراغون",
+"answers": ["Dragon"]
+},
+
+{
+"type": "مجنون",
+"answers": ["crazy"]
+},
+
+{
+"type": "قائد",
+"answers": ["Leader"]
+},
+
+{
+"type": "المالك",
+"answers": ["owner"]
+},
+
+{
+"type": "ملك",
+"answers": ["king"]
+}
+]
